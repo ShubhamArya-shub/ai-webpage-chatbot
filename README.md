@@ -1,3 +1,5 @@
+  🔗 **Live Demo:** [Try the app here](https://ai-webpage-chatbot-ahpmqfqzu3gnjwzm8vkaj9.streamlit.app/)
+
 # 🤖 AI Webpage Chatbot
 
 An AI-powered chatbot that reads any webpage and answers questions about its content — built using **LangChain**, **Google Gemini**, and **Streamlit**.
